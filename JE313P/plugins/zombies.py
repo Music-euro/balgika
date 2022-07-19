@@ -13,7 +13,7 @@ CLEANER_HELP = """
 
 !المحذوفين تنظيف
 لحذف و طرد الحسابات المحذوفة من لمجموعة
-[𖠄 𝗝𝗲𝗽𝘁𝗵𝗼𝗻 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𖠄](https://t.me/JEPTHON)
+[SOURCE BALGIKA](https://t.me/Ch_Hamodyy)
 
 """
 
