@@ -1,9 +1,9 @@
 {
-    "name": "سورس جيبثون ميوزك",
+    "name": "بلجيكا🇧🇪 سورس",
     "description": "سورس ميوزك لتشغيل الاغاني في المحادثات الصوتية .",
-    "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/lMl10l/Jepthon-313",
-  "stack": "container",
+    "keywords": ["SOURCE", "BALGIKA-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
+    "repository": "https://github.com/Music-euro/balgika.git",
+  "stack": "container"
     "env": {
         "APP_ID": {
             "description": "ضع هنا الايبي ايدي حساب المساعد"
@@ -23,12 +23,12 @@
         "SUPPORT": {
             "description": "ضع هنا معرف مجموعتك او قناتك بدون @",
             "required": false,
-            "value": "JEPTHONSUPPORT"
+            "value": "vxvxvbn"
         },
         "CHANNEL": {
             "description": "ضع معرف قناتك اذا اردت غير ذلك اتركها ",
             "required": false,
-            "value": "JEPTHON"
+            "value": "Ch_Hamodyy"
         },
         "BOT_USERNAME": {
             "description": "هنا ضع معرف البوت بدون @",
